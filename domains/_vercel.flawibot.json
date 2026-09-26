@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "hostflawi-ctrl",
+    "email": "hostflawi@gmail.com"
+  },
+  "records": {
+    "TXT": "vc-domain-verify=flawibot.is-a.dev,01cd4a0f5f1a3fb5ac9a"
+  }
+}
